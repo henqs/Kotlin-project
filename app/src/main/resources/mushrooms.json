@@ -1,0 +1,15 @@
+{
+    "mushrooms": [
+        { 
+            "mushroom": "Cantharellus cibarius",
+            "capColor": "yellow",
+            "capType": "cone",
+            "stemColor": "yellow",
+            "stemtype": "smooth",
+            "pineForrest" : true,
+            "deciduousForrest": true,
+            "smell": "fruity"
+
+        }
+    ]
+}

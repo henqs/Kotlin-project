@@ -1,0 +1,9 @@
+{
+    "mushrooms": [
+        { 
+            "mushroom": "Cantharellus cibarius",
+            "name": "Kantarell",
+            "decription": "bor i skogen etc"
+        }
+    ]
+}
