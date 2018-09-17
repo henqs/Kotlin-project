@@ -1,3 +1,8 @@
 # Svampkorgen
+Project created to help me when im looking for mushrooms in the woods.
 
-En app för att enkelt kunna slå upp vilken svamp det är man har i handen
+
+##Planned features
+*Multiple language support
+*Map to save mushroom spots on
+*Simple guide to help quickly identify which mushroom you have found
